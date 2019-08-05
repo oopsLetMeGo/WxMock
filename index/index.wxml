@@ -1,0 +1,4 @@
+<view class="intro">姓名:</view>
+<view>{{name}}</view>
+<view class="intro">时间:</view>
+<view>{{current_time}}</view>
