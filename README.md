@@ -3,9 +3,9 @@
 基于以下项目修改而来,支持正则匹配url
 - [mockjs](http://mockjs.com "mockjs")
 - [WxMock](https://github.com/webx32/WxMock "WxMock")
-## 使用
 ### 代码段分享
 [https://developers.weixin.qq.com/s/gaHfApms7Uau](https://developers.weixin.qq.com/s/gaHfApms7Uau)
+## 使用
 1. 项目下新建mock文件夹并拷贝以下文件
    - mock/mock.js
    - mock/WxMock.js
